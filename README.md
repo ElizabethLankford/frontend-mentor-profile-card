@@ -34,7 +34,7 @@ Below is a screenshot of the mobile view.
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/ElizabethLankford/frontend-mentor-profile-card)
-- Live Site URL: [Live profile card](https://your-live-site-url.com)
+- Live Site URL: [Live profile card](https://thriving-cranachan-bc8eb5.netlify.app/)
 
 ## My process
 
