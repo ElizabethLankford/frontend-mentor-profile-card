@@ -6,8 +6,10 @@ body{
     margin: 0;
     padding: 0;
     height: 100vh;
-    background-color: hsl(185, 75%, 39%);
-    background-image: url(images/bg-pattern-bottom.svg);
+    background: url(images/bg-pattern-top.svg),url(images/bg-pattern-bottom.svg); 
+    background-color: #19a2ae; 
+    background-position: right 52vw bottom 35vh,left 48vw top 52vh; 
+    background-repeat: no-repeat,no-repeat;
     text-align: center;
     display: flex;
     justify-content: center;
